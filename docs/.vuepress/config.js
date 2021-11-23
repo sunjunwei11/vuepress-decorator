@@ -4,5 +4,5 @@ module.exports = {
   markdown: {
     lineNumbers: true
   },
-  base: '/vuepress-decorator/'
+  base: '/vuepress-decorator-pages/'
 }
