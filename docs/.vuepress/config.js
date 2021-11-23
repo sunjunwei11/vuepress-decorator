@@ -3,5 +3,6 @@ module.exports = {
   description: '讲解Vue中的装饰器',
   markdown: {
     lineNumbers: true
-  }
+  },
+  base: '/vuepress-decorator/'
 }
